@@ -37,5 +37,5 @@ body {
 }
 
 .text-primary{
-    color: var(--text-body) !important; 
+    color: var(--color-primary) !important; 
 }
