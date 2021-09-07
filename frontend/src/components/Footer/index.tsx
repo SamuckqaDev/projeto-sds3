@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light">
-          App desenvolvido por{" "}
+        App development by{" "}
           <a
             href="https://www.linkedin.com/in/samuel-adriano-tomimatu-26aa6b185/"
             target="_blank"
@@ -14,9 +14,9 @@ export function Footer() {
         </p>
         <p className="text-light">
           <small>
-            <strong>Semana Spring React</strong>
+            <strong>Week Spring React</strong>
             <br />
-            Evento promovido pela escola DevSuperior:{" "}
+            Event promoted by the DevSuperior school:{" "}
             <a
               href="https://instagram.com/devsuperior.ig"
               target="_blank"
